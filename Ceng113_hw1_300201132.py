@@ -43,3 +43,4 @@ for i in range(num_books):
 print(f"\nUsername: {username}")
 print(f"Total Rental Cost: ${total_rental_cost:.2f}")
 print(f"Total Late Fees: ${total_late_fees:.2f}")
+
